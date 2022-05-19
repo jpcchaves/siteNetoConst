@@ -69,6 +69,14 @@ ul {
     color: #fff;
 }
 
+.menu li a i {
+    transition: transform 0.5s;
+}
+
+.menu li a i:hover{
+    transform: scale(1.2);
+}
+
 .icone{
     margin-right: 5px;
 }
