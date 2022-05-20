@@ -145,6 +145,8 @@ i.icone{
     }
 
     .neto-const-cv{
+        background-position: center;
+        background-size: contain;
         background-repeat: no-repeat;
         background-image: url('../imgs/logo-neto-const.png');
     }
